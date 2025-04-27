@@ -39,3 +39,5 @@ Generando nueva mutación PRO... Nuevo archivo fuente generado: mutacion_abcdef1
 ## 📁 Project Structure
 
 /MetamorphicCodeGenerator │ ├── Program.cs // Entry point ├── CodeGenerator.cs // Main generator and compiler ├── JunkCode.cs // Harmless random code (junk instructions) ├── RandomGenerator.cs // Name/comment/control-structure randomizer
+
+![0660efe82fa3da42ed56eef013171835](https://github.com/user-attachments/assets/48e806df-62d4-4b39-bbee-8d5f7222f8d8)
