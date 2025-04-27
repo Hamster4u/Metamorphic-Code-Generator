@@ -1,0 +1,7 @@
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\bin\Debug\Metamorfismo.exe.config
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\bin\Debug\Metamorfismo.exe
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\bin\Debug\Metamorfismo.pdb
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\obj\Debug\Metamorfismo.csproj.AssemblyReference.cache
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\obj\Debug\Metamorfismo.csproj.CoreCompileInputs.cache
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\obj\Debug\Metamorfismo.exe
+C:\Users\overdose\source\repos\Metamorfismo\Metamorfismo\obj\Debug\Metamorfismo.pdb
